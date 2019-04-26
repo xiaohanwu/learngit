@@ -7,4 +7,4 @@ remote
 new branch
 insert
 b1
-Creating a new branch is quickly & simple.
+Creating a new branch is quickly and simple.

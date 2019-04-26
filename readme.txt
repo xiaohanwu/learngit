@@ -6,3 +6,5 @@ daniel
 remote
 new branch
 insert
+b1
+Creating a new branch is quickly & simple.
